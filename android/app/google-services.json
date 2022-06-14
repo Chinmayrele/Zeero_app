@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "683845276507",
+    "firebase_url": "https://zeero-app-a35a4-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "zeero-app-a35a4",
     "storage_bucket": "zeero-app-a35a4.appspot.com"
   },
@@ -14,7 +15,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "683845276507-le34vh2j3rufglpqrui2ea9k8jt1vrju.apps.googleusercontent.com",
+          "client_id": "683845276507-dh5mig14opvs5rg9fcb348mh98mkcr2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zeero_app",
+            "certificate_hash": "436c11878f3aec79c7acb99acb6ee24fcb35c807"
+          }
+        },
+        {
+          "client_id": "683845276507-uoq1t0id1sstppc2lh8t4frggi8jc29a.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.zeero_app",
